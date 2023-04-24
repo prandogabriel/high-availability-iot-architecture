@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json",
+    "tsconfig.json": "json",
+    "*.proto": "3d",
+    "*.webpack.js": "webpack",
+    "addr.h": "c",
+    "shell.h": "c"
+  }
+}
